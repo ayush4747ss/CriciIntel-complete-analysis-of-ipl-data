@@ -45,5 +45,5 @@ pip install pandas numpy matplotlib seaborn plotly
 Usage
 Clone the repository:
 
-git clone https://github.com/your-username/ipl-data-analysis.git
 
+git clone https://github.com/ayush4747ss/complete-analysis-of-ipl-data.git
